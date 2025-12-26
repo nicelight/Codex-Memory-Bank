@@ -1,4 +1,4 @@
-# Codex Cloud Agent + Memory Bank (optimized)
+# Codex Cloud AGENTS.md+ Memory Bank (optimized)
 
 Агент для Codex Cloud в стиле SDD: **Contracts → Tests → Code → ADR → Progress**, с расширенным мемори‑банком `.memory/` и гибкими правилами автономности (по умолчанию — уровень 2).
 
